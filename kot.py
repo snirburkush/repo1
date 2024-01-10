@@ -1,2 +1,2 @@
-user='snir'
+user='sniir'
 password='Aa123123'
