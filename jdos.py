@@ -1,2 +1,2 @@
 user='dmaok'
-password='Aa123ax123123'
+password='Aa123123'
